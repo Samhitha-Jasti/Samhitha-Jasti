@@ -2,7 +2,7 @@
 
 
 
-- 👋 Hi, Samhitha here
+- 👋 Hey, Samhitha here
 - 🔭 I’m interested in Machine Learning & NLP
 - 🌱 I’m currently learning Data sceince and NLP
 - 💞️ I’m looking to collaborate on Machine Learning Projects
