@@ -11,6 +11,7 @@
 - 💬 Ask me about Java,DSA,Data Science
 - ⚡ Fun fact: You will find me wandering in between nature and watching dog videos whenever I get time
 
+![](https://komarev.com/ghpvc/?username=Samhitha-Jasti)
 
 ![Samhitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samhitha-Jasti&count_private=true)
 
