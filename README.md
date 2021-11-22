@@ -14,4 +14,4 @@
 
 ![Samhitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samhitha-Jasti&count_private=true)
 
-![](https://komarev.com/ghpvc/?username=Samhitha-Jasti)
+
