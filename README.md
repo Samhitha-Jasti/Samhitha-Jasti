@@ -14,10 +14,3 @@
 [![Twitter Badge](https://img.shields.io/badge/-@__samhiithaj-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SamhithaJ1)](https://twitter.com/SamhithaJ1)
 [![Instagram Badge](https://img.shields.io/badge/-@samhii-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_samhiithhaa/)](https://instagram.com/_samhiithhaa)
 [![Gmail Badge](https://img.shields.io/badge/-samhithach-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:asjasti07@gmail.com)](mailto:asjasti07@gmail.com)
-
-
-
-
-![Samhitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samhitha-Jasti&count_private=true)
-
-
