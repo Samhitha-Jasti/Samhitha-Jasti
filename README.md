@@ -41,7 +41,7 @@
 </td>
 
 <td align="center" width="33%">
-<img height=80px src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> 
+<img height=80px src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/mysql.svg"> 
 </td>
 </tr>
 
