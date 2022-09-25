@@ -15,8 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/samhithaj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samhithaj1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/samhitha-jasti-63b86a1b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/samhitha-jasti-63b86a1b7/" height="30" width="40" /></a>
-<a href="https://fb.com/samhitha jasti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samhitha jasti" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samhitha-jasti-63b86a1b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/samhitha-jasti-63b86a1b7/" height="30" width="40" /></a>
+
 <a href="https://instagram.com/_samhiithhaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_samhiithhaa" height="30" width="40" /></a>
 </p>
 
