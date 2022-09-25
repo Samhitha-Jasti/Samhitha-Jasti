@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anjani Samhitha Jasti</h1>
 <h3 align="center">Computer Science Student from VIT AP | Data Science enthusiast | Passionate Programmer and Coder</h3>
-<img align="center" alt="Face Recognition" src="https://cdn.dribbble.com/users/3496409/screenshots/7749099/media/e28f5b7f3756d12dddc8a57e0f559219.gif">
+<img align="center" alt="Face Recognition" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 - 🔭 I’m currently working on **Data visualization, Data Science**
 
