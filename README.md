@@ -27,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samhitha-jasti&show_icons=true&locale=en&layout=compact" alt="samhitha-jasti" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samhitha-jasti&show_icons=true&locale=en" alt="samhitha-jasti" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samhitha-jasti&" alt="samhitha-jasti" /></p>
