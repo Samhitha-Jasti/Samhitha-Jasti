@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📝 I regularly write articles on [My Journal !!](My Journal !!)
+- 📝 I regularly write articles on My Journal !!
 
 - 💬 Ask me about **DSA, Java, Data Science**
 
