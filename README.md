@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📝 I regularly write articles on My Journal !!
-
 - 💬 Ask me about **DSA, Java, Data Science**
 
 - 📫 How to reach me **anjanisamhithaj@gmail.com**
